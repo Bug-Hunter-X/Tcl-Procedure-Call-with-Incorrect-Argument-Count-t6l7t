@@ -1,0 +1,1 @@
+This repository contains a simple Tcl script demonstrating a common error: calling a procedure with the wrong number of arguments.  The `bug.tcl` file shows the erroneous call, while `bugSolution.tcl` provides the corrected version. The issue is easily caught by careful review and testing.
